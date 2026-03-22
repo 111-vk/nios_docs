@@ -1,3 +1,7 @@
+### 2026-03-22 11:51 (111-vk - fd6a3ae)
+
+- feat(actions): allow workflow to be triggered from chai_Donation repo via repository_dispatch
+
 ### 2026-03-12 12:39 (Sabya sachi - 00ae2a1)
 
 - Modify glossary and add new sections  Updated glossary details and added new sections for Result and Marksheet, and NIOS ODE.
